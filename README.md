@@ -1,5 +1,6 @@
-## Social network
-## Primary key - User, 
+## Social Network
+
+### Primary key - User, 
 * user ID
 * password
 * name
@@ -8,6 +9,7 @@
 * mailbox
 * post_list
 * friends_list
+
 ### Associated functions
 * requestFriend()
 * rejectFriend()
@@ -17,14 +19,14 @@
 * editPost()
 * likePost()
   
-## Primary key - Post
+### Primary key - Post
 * post ID
 * post image
 * post content
 * likes
 * hashtags
 
-## Primary key - Notification
+### Primary key - Notification
 * date
 * content
 
