@@ -1,4 +1,3 @@
-# Object oriented organization (planned)
 ## Social network
 ## Primary key - User, 
 * user ID
